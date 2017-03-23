@@ -35,6 +35,7 @@
 		ED47F1AF1DEFF0BD002CE32E /* leftClass.m in Sources */ = {isa = PBXBuildFile; fileRef = ED47F1AE1DEFF0BD002CE32E /* leftClass.m */; };
 		ED47F1B91DEFF450002CE32E /* leftModel.m in Sources */ = {isa = PBXBuildFile; fileRef = ED47F1B81DEFF450002CE32E /* leftModel.m */; };
 		ED47F1BF1DF01E71002CE32E /* leftCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ED47F1BE1DF01E71002CE32E /* leftCell.m */; };
+		ED6A35031E8374B5004E11D8 /* testView.m in Sources */ = {isa = PBXBuildFile; fileRef = ED6A35021E8374B5004E11D8 /* testView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -95,6 +96,8 @@
 		ED47F1B81DEFF450002CE32E /* leftModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = leftModel.m; sourceTree = "<group>"; };
 		ED47F1BD1DF01E71002CE32E /* leftCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = leftCell.h; sourceTree = "<group>"; };
 		ED47F1BE1DF01E71002CE32E /* leftCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = leftCell.m; sourceTree = "<group>"; };
+		ED6A35011E8374B5004E11D8 /* testView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testView.h; sourceTree = "<group>"; };
+		ED6A35021E8374B5004E11D8 /* testView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +184,8 @@
 			children = (
 				ED47F1A91DEFD539002CE32E /* homeClass.h */,
 				ED47F1AA1DEFD539002CE32E /* homeClass.m */,
+				ED6A35011E8374B5004E11D8 /* testView.h */,
+				ED6A35021E8374B5004E11D8 /* testView.m */,
 			);
 			path = home;
 			sourceTree = "<group>";
@@ -435,6 +440,7 @@
 				ED47F1941DEFD0CA002CE32E /* BaseTableViewController.m in Sources */,
 				ED47F1BF1DF01E71002CE32E /* leftCell.m in Sources */,
 				ED47F19A1DEFD0CA002CE32E /* UINavigationController+FDFullscreenPopGesture.m in Sources */,
+				ED6A35031E8374B5004E11D8 /* testView.m in Sources */,
 				ED47F14D1DEFC634002CE32E /* AppDelegate.m in Sources */,
 				ED47F1711DEFCCA9002CE32E /* YBYTheNncTown.m in Sources */,
 				ED47F14A1DEFC634002CE32E /* main.m in Sources */,
